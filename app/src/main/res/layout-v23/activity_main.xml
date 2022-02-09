@@ -255,8 +255,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:checked="true"
-            android:text="@string/number_five"
-            tools:ignore="TextContrastCheck" />
+            android:text="@string/number_five" />
     </RadioGroup>
 
     <TextView
@@ -282,8 +281,7 @@
         app:layout_constraintBottom_toBottomOf="@+id/publication_date_text_view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/publication_date_text_view"
-        app:layout_constraintTop_toTopOf="@+id/publication_date_text_view"
-        tools:ignore="UnusedAttribute" />
+        app:layout_constraintTop_toTopOf="@+id/publication_date_text_view" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 

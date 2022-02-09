@@ -6,4 +6,27 @@
     <string name="pages">Numero de paginas</string>
     <string name="resume">Resumen:</string>
     <string name="Save">Guardar</string>
+    <string name="info">Nombre: %s \nAutor: %s \nPaginas: %d \nResumen: %s \nGenero: %s \nCalificacion: %d \nFecha de publicacion: %s</string>
+    <string name="genre">Genero</string>
+    <string name="suspense">Suspenso</string>
+    <string name="terror">Terror</string>
+    <string name="infantile">Infantil</string>
+    <string name="fiction">Ficcion</string>
+    <string name="score">Calificacion</string>
+    <string name="number_five">5</string>
+    <string name="number_four">4</string>
+    <string name="number_three">3</string>
+    <string name="number_two">2</string>
+    <string name="number_one">1</string>
+    <string name="publication_date">Fecha de publicacion</string>
+    <string name="date">DD-MM-YYYY</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="todo">TODO</string>
+    <string name="Email_text">Correo</string>
+    <string name="Password_text">Contraseña</string>
+    <string name="Sign_text">Iniciar Sesion</string>
+    <string name="Register"><u>Registrar</u></string>
+    <string name="Repeat_password">Repite la contraseña</string>
+    <string name="Register_text">Registrar</string>
+    <string name="sing_out">Cerrar sesion</string>
 </resources>
