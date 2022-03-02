@@ -10,16 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".RegisterActivity"
-            android:exported="false" />
-        <activity
-            android:name=".LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name=".SplashActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:name=".ui.bottom.BottomActivity"
             android:exported="true"
-            android:theme="@style/AppTheme.Splash">
+            android:label="@string/title_activity_bottom">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,8 +20,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:exported="true" />
+            android:name=".ui.register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true"
+            android:theme="@style/AppTheme.Splash"></activity>
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:exported="true">
+        </activity>
     </application>
 
 </manifest>

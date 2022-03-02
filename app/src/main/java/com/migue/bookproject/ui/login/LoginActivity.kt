@@ -1,9 +1,11 @@
-package com.migue.bookproject
+package com.migue.bookproject.ui.login
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import com.migue.bookproject.ui.main.MainActivity
+import com.migue.bookproject.ui.register.RegisterActivity
 import com.migue.bookproject.databinding.ActivityLoginBinding
 
 class LoginActivity : AppCompatActivity() {

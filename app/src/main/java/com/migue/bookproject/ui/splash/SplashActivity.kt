@@ -1,9 +1,10 @@
-package com.migue.bookproject
+package com.migue.bookproject.ui.splash
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.migue.bookproject.databinding.ActivitySplashBinding
+import com.migue.bookproject.ui.login.LoginActivity
 import java.util.*
 import kotlin.concurrent.timerTask
 

@@ -29,4 +29,11 @@
     <string name="Repeat_password">Repite la contraseña</string>
     <string name="Register_text">Registrar</string>
     <string name="sing_out">Cerrar sesion</string>
+    <string name="example_title">Satanas</string>
+    <string name="example_author">Mario Mendoza</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_list">Lista</string>
+    <string name="title_new">Agregar</string>
+    <string name="title_update">Actualizar</string>
+    <string name="title_delete">Borrar</string>
 </resources>
